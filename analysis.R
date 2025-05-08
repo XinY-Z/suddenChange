@@ -4,8 +4,6 @@
 
 library(data.table)
 library(ggplot2)
-library(ggrepel)
-library(gridExtra)
 library(effectsize)
 
 
